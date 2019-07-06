@@ -1,0 +1,10 @@
+# Portfolio
+- I used nodejs,jquery,javascript,html,css.
+- I coded most of part, but I used other source for Web Design.
+
+# Features
+- Clone the repository
+- Replaced the content with your's info.
+
+# vesion
+- This is version 1.

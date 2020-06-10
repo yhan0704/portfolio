@@ -3252,17 +3252,17 @@ input, select, textarea {
 	}
 
 		#wrapper > .bg {
+			background-image: url("../../images/pic1.jpg"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1));
 			position: absolute;
 			top: 0;
 			left: 0;
 			width: 100%;
 			height: 100%;
-			background-color: #212931;
-			background-image: url("../../images/pic1.jpg"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1));
-			background-size: cover,									auto,														100% auto;
+			/* background-size: cover,									auto,														100% auto; */
 			background-position: center,								center,														top center;
 			background-repeat: repeat,								no-repeat,													no-repeat;
 			background-attachment: scroll,								scroll,														scroll;
+			opacity: 0.4;
 			z-index: -1;
 		}
 

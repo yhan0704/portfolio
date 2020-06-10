@@ -3817,7 +3817,7 @@ input, select, textarea {
 			#main > .post.featured {
 				text-align: center;
 				padding-bottom:0px;
-				padding-top:30px;
+				padding-top:0px;
 			}
 			#main > .post.featured li{
 				text-align: left;

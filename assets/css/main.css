@@ -18,6 +18,13 @@ img{
 
 /* start project css */
 
+#main > .posts > .projectAlignLeft {
+	margin-left:3%;
+	margin-right:3%;
+	width: 100%;
+	font-style: italic;
+}
+
 #main .projectPicContainer{
 	display: flex;
 	flex-wrap: wrap;
@@ -72,6 +79,12 @@ img{
 	margin: 0 10% 0 10%;
 	padding-top:0
 }
+
+/* #main > .posts > .projectDesc{
+	width:100%;
+	margin: 0 10% 0 10%;
+	padding-top:0
+} */
 
 #main > .posts > .portfolioImage{
 	width: 400px;

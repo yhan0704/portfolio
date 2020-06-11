@@ -83,6 +83,7 @@ img{
 	height: 100%;
 }
 
+
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Merriweather:300,700,300italic,700italic|Source+Sans+Pro:900");
 
@@ -190,6 +191,9 @@ input, select, textarea {
 		.post.featured p.welcomeGreeting{
 			font-size: 20px;
 		}
+		/* #footer > section.split.contact > .alt {
+			padding:0
+		} */
 		html, body {
 			min-width: 320px;
 		}
@@ -4046,9 +4050,9 @@ input, select, textarea {
 
 		@media screen and (max-width: 736px) {
 
-			#main > * {
+			/* #main > * {
 				padding: 2rem 2rem 0.1rem 2rem ;
-			}
+			} */
 
 		}
 
@@ -4446,11 +4450,11 @@ input, select, textarea {
 					}
 
 						#footer > section.split.contact > section:first-child {
-							padding: 4rem;
+							padding: 2%;
 						}
 
 						#footer > section.split.contact > section:last-child {
-							padding: 4rem;
+							padding: 2%;
 						}
 
 				#footer form label,
@@ -4484,11 +4488,11 @@ input, select, textarea {
 				}
 
 					#footer > section.split.contact > section:first-child {
-						padding: 2rem;
+						padding: 2%;
 					}
 
 					#footer > section.split.contact > section:last-child {
-						padding: 2rem;
+						padding: 2%;
 					}
 
 		}

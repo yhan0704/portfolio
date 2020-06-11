@@ -4050,9 +4050,11 @@ input, select, textarea {
 
 		@media screen and (max-width: 736px) {
 
-			/* #main > * {
-				padding: 2rem 2rem 0.1rem 2rem ;
-			} */
+			#main > .posts > .projectAlignLeft {
+				text-align: left;
+				margin:0;
+				padding:0;
+			}
 
 		}
 

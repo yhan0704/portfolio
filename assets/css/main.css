@@ -83,6 +83,10 @@ img{
 	height: 100%;
 }
 
+#footer > section.split.contact > section > h3.footerh3{
+	padding-top:3%
+}
+
 
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Merriweather:300,700,300italic,700italic|Source+Sans+Pro:900");
@@ -1414,7 +1418,8 @@ input, select, textarea {
 			#main > .myProfile{
 				font-size: 16px;
 				text-align: left;
-				margin:0
+				margin-left:3%;
+				margin-right:3%;
 			}
 			.row {
 				display: flex;
@@ -4052,7 +4057,8 @@ input, select, textarea {
 
 			#main > .posts > .projectAlignLeft {
 				text-align: left;
-				margin:0;
+				margin-left:3%;
+				margin-right:3%;
 				padding:0;
 			}
 

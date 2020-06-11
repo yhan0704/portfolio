@@ -97,8 +97,9 @@ img{
 }
 
 #footer > section.split.contact > section > h3.footerh3{
-	padding-top:3%
+	padding-top:1%
 }
+
 
 
 @import url(fontawesome-all.min.css);
@@ -1433,6 +1434,9 @@ input, select, textarea {
 				text-align: left;
 				margin-left:3%;
 				margin-right:3%;
+			}
+			#footer > section.split.contact > section > h3.footerh3{
+				padding-top:3%
 			}
 			.row {
 				display: flex;

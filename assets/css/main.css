@@ -3938,6 +3938,8 @@ input, select, textarea {
 		width: calc(100% - 4rem);
 		max-width: 72rem;
 		z-index: 2;
+		margin-bottom: 5%;
+		padding-bottom: 3%;
 	}
 
 		#main > * {
@@ -4148,7 +4150,7 @@ input, select, textarea {
 		color: #909498;
 		cursor: default;
 		position: relative;
-		margin: 10% auto;
+		margin:5% auto;
 		width: calc(100% - 4rem);
 		max-width: 72rem;
 		z-index: 2;

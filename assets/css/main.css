@@ -1212,6 +1212,15 @@ input, select, textarea {
 
 		@media screen and (max-width: 980px) {
 
+			#main input[type="text"]{
+				display: inline-block;
+				width:30%;
+				text-align: center;
+				margin:3%;
+				padding:1%;
+				border: 2px solid lightslategray;
+			}
+			
 			.row {
 				display: flex;
 				flex-wrap: wrap;
@@ -1725,6 +1734,7 @@ input, select, textarea {
 		}
 
 		@media screen and (max-width: 480px) {
+			
 			.row {
 				display: flex;
 				flex-wrap: wrap;
@@ -1969,7 +1979,14 @@ input, select, textarea {
 		}
 
 		@media screen and (max-width: 360px) {
-
+			#main input[type="text"]{
+				display: inline-block;
+				width:50%;
+				text-align: center;
+				margin:3%;
+				padding:1%;
+				border: 2px solid lightslategray;
+			}
 			.row {
 				display: flex;
 				flex-wrap: wrap;

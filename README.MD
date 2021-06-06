@@ -1,6 +1,5 @@
 ## Portfolio
 
-# [Demo](https://yhan0704.github.io/portfolio/portfolio.html) 
+# Demo[Live Server](http://www.youngchnai.com/) 
 
-* Developed responsive web design
-* Built using portpolio template.
+
